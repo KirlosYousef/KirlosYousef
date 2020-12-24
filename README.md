@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm <a href="https://www.kirlosyousef.com">Kirlos Yousef</a>.</h1>
-<h5 align="center">Recent Computer Science graduate with very good programming and problem solving skills.</h5>
+<h5 align="center">IOS Software Engineer | Recent Computer Science Graduate</h5>
 
 
 <!--
@@ -24,7 +24,7 @@
 <a href="https://www.kirlosyousef.com"><img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
                                                   width="35%"/></a>
 
-- Quality-oriented recent graduate with a B.S. in Computer Science (3.42/4 GPA), the university chose me to be a teaching assistant. I developed several iOS projects using Swift and published an app on the AppStore. I have very good knowledge of a lot of different technologies, and excellent problem-solving skills. I am always eager to learn more whenever it is related to CS. Frequently praised as detail-oriented by my peers.
+- Quality-oriented recent Computer science graduate. The university chose me to be database systems teaching assistant. I developed several iOS apps using Swift and published one on the AppStore. I have a wide range of knowledge of different technologies, with excellent problem-solving skills. I am always eager to learn more whenever it is related to tech. 
 
 - 🧑‍💻 Project to be proud of: [RaceMe!-iOS App](https://github.com/KirlosYousef/RaceMe-IOS)
 
