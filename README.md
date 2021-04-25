@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm <a href="https://www.kirlosyousef.com">Kirlos Yousef</a>.</h1>
-<h5 align="center">IOS Software Engineer | Recent Computer Science Graduate</h5>
+<h5 align="center">IOS Software Engineer at Iomob - The Internet of Mobility.</h5>
 
 
 <!--
@@ -28,7 +28,7 @@
 
 - 🧑‍💻 Project to be proud of: [RaceMe!-iOS App](https://github.com/KirlosYousef/RaceMe-IOS)
 
-- 💼 If you have questions, or you have a project, I'm available for freelancing and I'm also looking for new job or internship opportunities,
+- 💼 If you have questions, or you have a project, I'm available for freelancing
 you can always contact me at: <br>
 Email: kirlosy@icloud.com <br>
 <a href="https://www.linkedin.com/in/kirlosyousef/">LinkedIn</a>
