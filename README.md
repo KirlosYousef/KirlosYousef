@@ -24,7 +24,7 @@
 <a href="https://www.kirlosyousef.com"><img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
                                                   width="35%"/></a>
 
-- Quality-oriented computer science graduate. I am currently working at one of the most European fast-growing startup companies, Iomob, which decentralizes mobility and leads the revolution of the internet of mobility in smart and sustainable cities. I developed several iOS apps using Swift and published one on AppStore. I have a wide range of knowledge of different technologies, with excellent problem-solving skills. Prior to my graduation, the university chose me to be a database-systems teaching assistant.
+- Quality-oriented iOS software engineer. Currently working at one of the most fast-growing startup European companies, Iomob, which decentralizes mobility and leads the revolution of the internet of mobility in smart and sustainable cities. Developed and published several Swift iOS apps. I have a wide range of knowledge of different technologies, with excellent problem-solving skills. Prior to my graduation, the university chose me to be a database-systems teaching assistant.
 
 - 🧑‍💻 Project to be proud of: [RaceMe!-iOS App](https://github.com/KirlosYousef/RaceMe-IOS)
 
