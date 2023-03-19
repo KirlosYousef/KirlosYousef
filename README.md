@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm <a href="https://www.kirlosyousef.com">Kirlos Yousef</a>.</h1>
-<h5 align="center">iOS Software Engineer at Iomob - The Internet of Mobility.</h5>
+<h5 align="center">iOS Software Engineer | Git | Agile | I Helped Iomob Delivering Several Feature-Rich and High-Performance Swift Apps for Prominent Companies</h5>
 
 
 <!--
@@ -24,11 +24,11 @@
 <a href="https://www.kirlosyousef.com"><img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
                                                   width="35%"/></a>
 
-- Quality-oriented iOS software engineer. Currently working at one of the most fast-growing startup European companies, Iomob, which decentralizes mobility and leads the revolution of the internet of mobility in smart and sustainable cities. Developed and published several Swift iOS apps. I have a wide range of knowledge of different technologies, with excellent problem-solving skills. Prior to my graduation, the university chose me to be a database-systems teaching assistant.
+- Experienced iOS software engineer with a track record of developing and publishing successful Swift iOS apps. Currently working at Iomob, a leading European startup revolutionizing the internet of mobility in smart and sustainable cities. Skilled in using a wide range of technologies to solve complex problems, with a passion for developing innovative solutions. Developed strong communication, leadership, and mentorship skills as a database-systems teaching assistant and academic mentor. Excited to leverage my diverse background and expertise to contribute to a dynamic and fast-paced team in an iOS software engineering role.
 
 - 🧑‍💻 Project to be proud of: [RaceMe!-iOS App](https://github.com/KirlosYousef/RaceMe-IOS)
 
-- 💼 If you have questions, or you have a project, I'm available for freelancing
+- 💼 I'm currently looking for a new full-time iOS Engineer experience <br>
 you can always contact me at: <br>
 Email: kirlosy@icloud.com <br>
 <a href="https://www.linkedin.com/in/kirlosyousef/">LinkedIn</a>
