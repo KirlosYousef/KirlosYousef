@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm <a href="https://www.kirlosyousef.com">Kirlos Yousef</a>.</h1>
-<h5 align="center">iOS Software Engineer | Git | Agile | I Helped Iomob Delivering Several Feature-Rich and High-Performance Swift Apps for Prominent Companies</h5>
+<h5 align="center">iOS Software Engineer | Git | Agile | I Helped Iomob Deliver Several Feature-Rich and High-Performance Swift Apps for Prominent Companies</h5>
 
 
 <!--
