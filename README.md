@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm <a href="https://www.kirlosyousef.com">Kirlos Yousef</a>.</h1>
-<h5 align="center">iOS Software Engineer | Git | Agile | I Helped Iomob Deliver Several Feature-Rich and High-Performance Swift Apps for Prominent Companies</h5>
+<h5 align="center">iOS Software Engineer | UiKit & SwiftUI Expert | Proven Track Record in Developing High-Quality Mobile Applications | Passionate about Creating Seamless Mobile Experiences 📱✨</h5>
 
 
 <!--
@@ -24,9 +24,9 @@
 <a href="https://www.kirlosyousef.com"><img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
                                                   width="35%"/></a>
 
-- Experienced iOS software engineer with a track record of developing and publishing successful Swift iOS apps. Currently working at Iomob, a leading European startup revolutionizing the internet of mobility in smart and sustainable cities. Skilled in using a wide range of technologies to solve complex problems, with a passion for developing innovative solutions. Developed strong communication, leadership, and mentorship skills as a database-systems teaching assistant and academic mentor. Excited to leverage my diverse background and expertise to contribute to a dynamic and fast-paced team in an iOS software engineering role.
+- Experienced iOS software engineer with around three years of successful track record in developing and publishing Swift iOS apps and SDKs. Currently at Iomob, a leading European startup that revolutionizes smart and sustainable city mobility. Skilled in using diverse technologies to solve complex problems and passionate about developing innovative solutions. Ready to contribute expertise to a dynamic iOS software engineering role.
 
-- 🧑‍💻 Project to be proud of: [RaceMe!-iOS App](https://github.com/KirlosYousef/RaceMe-IOS)
+- 🧑‍💻 Project to be proud of: [RaceMe!-iOS App](https://apps.apple.com/us/app/id1514432749)
 
 - 💼 I'm currently looking for a new full-time iOS Engineer experience <br>
 you can always contact me at: <br>
