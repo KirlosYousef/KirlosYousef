@@ -32,5 +32,3 @@
 you can always contact me at: <br>
 Email: kirlosy@icloud.com <br>
 <a href="https://www.linkedin.com/in/kirlosyousef/">LinkedIn</a>
-
----
