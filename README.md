@@ -33,30 +33,4 @@ you can always contact me at: <br>
 Email: kirlosy@icloud.com <br>
 <a href="https://www.linkedin.com/in/kirlosyousef/">LinkedIn</a>
 
-<details align="center">
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-
-  <div>
-    <img align='right' src="https://github-readme-stats.vercel.app/api?username=KirlosYousef&show_icons=true&count_private=true&hide=contribs,issues&hide_border=true">
-   
-
-### Languages and Tools:  
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br><br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<br><br>
-
-
-   </div>
-</details>
-
-
 ---
-
-
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
