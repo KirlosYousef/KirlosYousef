@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm <a href="https://www.kirlosyousef.com">Kirlos Yousef</a>.</h1>
-<h5 align="center">iOS Software Engineer | UiKit & SwiftUI Expert | Proven Track Record in Developing High-Quality Mobile Applications | Passionate about Creating Seamless Mobile Experiences 📱✨</h5>
+<h5 align="center">Senior iOS Engineer | SwiftUI & UIKit Expert | Proven Track Record in Developing High-Quality Mobile Applications | Passionate about Creating Seamless Mobile Experiences 📱✨</h5>
 
 
 <!--
@@ -24,9 +24,9 @@
 <a href="https://www.kirlosyousef.com"><img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
                                                   width="35%"/></a>
 
-- Experienced iOS software engineer with around three years of successful track record in developing and publishing Swift iOS apps and SDKs. Currently at Iomob, a leading European startup that revolutionizes smart and sustainable city mobility. Skilled in using diverse technologies to solve complex problems and passionate about developing innovative solutions. Ready to contribute expertise to a dynamic iOS software engineering role.
+- Senior iOS Engineer with 5+ years of experience, I architect scalable iOS apps and SDKs using Swift, SwiftUI, and UIKit, delivering enterprise-grade solutions. Specialized in performance optimization (35% latency reduction, 60% fewer bugs) and Agile collaboration. Published 5+ apps on the App Store, contributed to and led projects involving geolocation, payments, and offline functionality, and mentored peers in technical best practices. Passionate about solving complex challenges with clean, maintainable code.
 
-- 🧑‍💻 Project to be proud of: [RaceMe!-iOS App](https://apps.apple.com/us/app/id1514432749)
+- 🧑‍💻 Project to be proud of: [RaceMe: Run with Friends!](https://apps.apple.com/us/app/id1514432749)
 
 - 💼 I'm currently looking for a new full-time iOS Engineer experience <br>
 you can always contact me at: <br>
