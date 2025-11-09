@@ -24,11 +24,10 @@
 <a href="https://www.kirlosyousef.com"><img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
                                                   width="35%"/></a>
 
-- Senior iOS Engineer with 5+ years of experience, I architect scalable iOS apps and SDKs using Swift, SwiftUI, and UIKit, delivering enterprise-grade solutions. Specialized in performance optimization (35% latency reduction, 60% fewer bugs) and Agile collaboration. Published 5+ apps on the App Store, contributed to and led projects involving geolocation, payments, and offline functionality, and mentored peers in technical best practices. Passionate about solving complex challenges with clean, maintainable code.
+- Senior iOS Engineer with 5+ years of experience, architecting scalable iOS apps, SDKs, and AI-powered solutions using Swift, SwiftUI, and UIKit. Proven success in performance optimization (achieving up to 35% latency reduction) and Agile collaboration. Published 8+ apps on the App Store. Experienced in leading development teams and mentoring peers to deliver high-quality, enterprise-grade mobile applications. Passionate about solving complex challenges with clean, maintainable code.
 
 - 🧑‍💻 Project to be proud of: [RaceMe: Run with Friends!](https://apps.apple.com/us/app/id1514432749)
 
-- 💼 I'm currently looking for a new full-time iOS Engineer experience <br>
-you can always contact me at: <br>
+- 💼 You can always contact me at: <br>
 Email: kirlosy@icloud.com <br>
 <a href="https://www.linkedin.com/in/kirlosyousef/">LinkedIn</a>
