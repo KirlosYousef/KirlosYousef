@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm <a href="https://www.kirlosyousef.com">Kirlos Yousef</a>.</h1>
-<h5 align="center">Senior iOS Engineer | SwiftUI & UIKit Expert | Proven Track Record in Developing High-Quality Mobile Applications | Passionate about Creating Seamless Mobile Experiences 📱✨</h5>
+<h5 align="center">Senior iOS Engineer & Tech Lead | 9+ Apps Shipped | Swift Ecosystem & AI | Architecting Scalable Enterprise SDKs</h5>
 
 
 <!--
@@ -24,7 +24,7 @@
 <a href="https://www.kirlosyousef.com"><img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
                                                   width="35%"/></a>
 
-- Senior iOS Engineer with 5+ years of experience, architecting scalable iOS apps, SDKs, and AI-powered solutions using Swift, SwiftUI, and UIKit. Proven success in performance optimization (achieving up to 35% latency reduction) and Agile collaboration. Published 8+ apps on the App Store. Experienced in leading development teams and mentoring peers to deliver high-quality, enterprise-grade mobile applications. Passionate about solving complex challenges with clean, maintainable code.
+- Senior iOS Engineer & Technical Lead with 5+ years of experience shipping 9+ apps and architecting scalable enterprise SDKs and high-performance consumer applications. Specializing in concurrent systems, offline-first architecture, and complex third-party integrations. Proven technical leader who optimized core engines to reduce data usage by 35% and server costs by 20% through payload and caching optimizations, while guiding distributed teams to deliver 99.9% crash-free releases.
 
 - 🧑‍💻 Project to be proud of: [RaceMe: Run with Friends!](https://apps.apple.com/us/app/id1514432749)
 
