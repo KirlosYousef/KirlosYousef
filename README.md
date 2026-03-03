@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm <a href="https://www.kirlosyousef.com">Kirlos Yousef</a>.</h1>
-<h5 align="center">Senior iOS Engineer & Tech Lead | 9+ Apps Shipped | Swift Ecosystem & AI | Architecting Scalable Enterprise SDKs</h5>
+<h5 align="center">iOS Technical Lead | 10+ Apps Shipped & Enterprise SDKs | Concurrent Systems & Scalable Architecture</h5>
 
 
 <!--
