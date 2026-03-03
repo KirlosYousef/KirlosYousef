@@ -24,7 +24,7 @@
 <a href="https://www.kirlosyousef.com"><img align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"
                                                   width="35%"/></a>
 
-- Senior iOS Engineer & Technical Lead with 5+ years of experience shipping 9+ apps and architecting scalable enterprise SDKs and high-performance consumer applications. Specializing in concurrent systems, offline-first architecture, and complex third-party integrations. Proven technical leader who optimized core engines to reduce data usage by 35% and server costs by 20% through payload and caching optimizations, while guiding distributed teams to deliver 99.9% crash-free releases.
+- iOS Technical Lead with 5+ years of experience shipping 10+ apps and architecting scalable enterprise SDKs and high-performance consumer applications. Specializing in concurrent systems, offline-first architecture, and complex third-party integrations. Proven technical leader who optimized core engines to reduce data usage by 35% and server costs by 20% through payload and caching optimizations, while guiding distributed teams to deliver 99.9% crash-free releases.
 
 - 🧑‍💻 Project to be proud of: [RaceMe: Run with Friends!](https://apps.apple.com/us/app/id1514432749)
 
